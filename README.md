@@ -26,15 +26,15 @@ $ .\env\Scripts\Activate.ps1
 
 Install packages
 ```
-$ pip install -r requirements.txt
+$ (venv) pip install -r requirements.txt
 ```
 
 Start server
 ```
-$ python src/main.py
+$ (venv) python src/main.py
 ```
 
 If you want to exit for venv
 ```
-$ deactivate
+$ (venv) deactivate
 ```
