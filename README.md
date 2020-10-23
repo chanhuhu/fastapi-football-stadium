@@ -1,2 +1,2 @@
 # fastapi-football-stadium
-Demo backend for 225323[1] การพัฒนาโปรแกรมประยุกต์สาหรับอุปกรณ์เคลื่อนท Mobile Application Development (GD)
+Demo backend for 225323[1] Mobile Application Development (GD)
