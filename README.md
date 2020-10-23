@@ -34,7 +34,7 @@ Start server
 $ (venv) python src/main.py
 ```
 
-If you want to exit for venv
+If you want to exit venv
 ```
 $ (venv) deactivate
 ```
