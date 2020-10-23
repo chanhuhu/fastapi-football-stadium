@@ -31,5 +31,10 @@ $ pip install -r requirements.txt
 
 Start server
 ```
-$ python main.py
+$ python src/main.py
+```
+
+If you want to exit for venv
+```
+$ deactivate
 ```
