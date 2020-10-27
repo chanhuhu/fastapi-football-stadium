@@ -31,7 +31,7 @@ $ (venv) pip install -r requirements.txt
 
 Start server
 ```
-$ (venv) python src/main.py
+$ (venv) python app/main.py
 ```
 
 If you want to exit venv
